@@ -1,0 +1,56 @@
+{
+    "metadata": {
+      "schemaVersion": "1.0",
+      "importType": "LEX",
+      "importFormat": "JSON"
+    },
+    "resource": {
+      "name": "KordiaSites",
+      "version": "lastest",
+      "enumerationValues": [
+        {
+            "KordiaUsers": [
+                
+                {
+                    "UserID": "1129",
+                    "Name": "Peter ",
+                    "LastName": "Bes",
+                    "Email": "PeterBes@gmail.com",
+                    "Password": "Abc141",
+                    "Position": "SiteEngineer",
+                    "DateOfBirth": "6/26/86",
+                    "ContactNumber": "0277542802"
+                },
+                {
+                    "UserID": "1130",
+                    "Name": "Pat",
+                    "LastName": "Pat",
+                    "Email": "peeh.indy@gmail.com",
+                    "Password": "Abc123",
+                    "Position": "SiteEngineer",
+                    "DateOfBirth": "11/9/91",
+                    "ContactNumber": "0212488997"
+                },
+                {
+                    "UserID": "1131",
+                    "Name": "Sally",
+                    "LastName": "Mei",
+                    "Email": "sallym@missionreadyhq.com",
+                    "Password": "Abc123",
+                    "Position": "SiteEngineer",
+                    "DateOfBirth": "11/9/91",
+                    "ContactNumber": "0212656886"
+                },
+                {
+                    "UserID": "1132",
+                    "Name": "Melissa",
+                    "LastName": "Kow",
+                    "Email": "melissak@missionreadyhq.com",
+                    "Password": "Abc123",
+                    "Position": "SiteEngineer",
+                    "DateOfBirth": "11/9/91",
+                    "ContactNumber": "0274212864"
+                }
+            ]
+}
+}   

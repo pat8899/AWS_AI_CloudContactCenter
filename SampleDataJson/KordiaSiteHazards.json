@@ -1,0 +1,143 @@
+{
+    "SiteHazards": [
+        {
+            "SiteID": "6111",
+            "SiteCode": "GMP",
+            "SiteName": "Grampians",
+            "Hazards": "Peak Rd entrance closed while bridge is reconstructed, for further information call ranger Thomas Engine 021 123 456"
+        },
+        {
+            "SiteID": "6112",
+            "SiteCode": "HDH",
+            "SiteName": "Hedgehope",
+            "Hazards": "No water onsite including drinking. Please bring your own bottles in interim."
+        },
+        {
+            "SiteID": "6113",
+            "SiteCode": "HIK",
+            "SiteName": "Hikurangi",
+            "Hazards": "Severe corrosion observed on the tower, extreme care to be taken when working on or around the tower."
+        },
+        {
+            "SiteID": "6114",
+            "SiteName": "Horokaka",
+            "Hazards": "the access tracks are for daytime dry weather only. Please note, the tracks can only be accessed using 4wd"
+        },
+        {
+            "SiteID": "6115",
+            "SiteName": "Kaukau",
+            "Hazards": "There is a Diesel smell in the generator room, don't panic, it's been cleaned."
+        },
+        {
+            "SiteID": "6116",
+            "SiteName": "Kuriwao",
+            "Hazards": "Potholes on access track 100m up from gate.  Care to be taken."
+        },
+        {
+            "SiteID": "6117",
+            "SiteName": "Little Mount Ida",
+            "Hazards": "Reduce speed and be aware of the fact that other people use the road. There have been three instances of near misses on this road so be very aware when travelling on this road at all times.  Ongoing"
+        },
+        {
+            "SiteID": "6118",
+            "SiteName": "Maungataniwha",
+            "Hazards": "Animal pest control operation is being planned for the Mt Cherry on 20th October 2021."
+        },
+        {
+            "Hazards": "Any concerns, please call Pest control on 01 234 567"
+        },
+        {
+            "SiteID": "6119",
+            "SiteCode": "CGL",
+            "SiteName": "Mount Cargill",
+            "Hazards": "Peak Rd entrance closed while bridge is reconstructed, for further information call ranger Thomas Engine 021 123 456"
+        },
+        {
+            "SiteID": "6120",
+            "SiteCode": "EGT",
+            "SiteName": "Mount Edgecumbe/Putauaki",
+            "Hazards": "No water onsite including drinking. Please bring your own bottles in interim."
+        },
+        {
+            "SiteID": "6121",
+            "SiteName": "Mount Taranaki/Egmont",
+            "Hazards": "Severe corrosion observed on the tower, extreme care to be taken when working on or around the tower."
+        },
+        {
+            "SiteID": "6122",
+            "SiteName": "Mount Erin",
+            "Hazards": "the access tracks are for daytime dry weather only. Please note, the tracks can only be accessed using 4wd"
+        },
+        {
+            "SiteID": "6123",
+            "SiteName": "Mount Murchison",
+            "Hazards": "There is a Diesel smell in the generator room, don't panic, it's been cleaned."
+        },
+        {
+            "SiteID": "6124",
+            "SiteName": "Mount Rochfort",
+            "Hazards": "Potholes on access track 100m up from gate.  Care to be taken."
+        },
+        {
+            "SiteID": "6125",
+            "SiteName": "Mount Studholme",
+            "Hazards": "Reduce speed and be aware of the fact that other people use the road. There have been three instances of near misses on this road so be very aware when travelling on this road at all times.  Ongoing"
+        },
+        {
+            "SiteID": "6126",
+            "SiteName": "Obelisk",
+            "Hazards": "Animal pest control operation is being planned for the Mt Cherry on 20th October 2021."
+        },
+        {
+            "Hazards": "Any concerns, please call Pest control on 01 234 567"
+        },
+        {
+            "SiteID": "6127",
+            "SiteName": "Otahoua",
+            "Hazards": "Peak Rd entrance closed while bridge is reconstructed, for further information call ranger Thomas Engine 021 123 456"
+        },
+        {
+            "SiteID": "6128",
+            "SiteName": "Paparoa",
+            "Hazards": "No water onsite including drinking. Please bring your own bottles in interim."
+        },
+        {
+            "SiteID": "6129",
+            "SiteName": "Peninsula Hill",
+            "Hazards": "Severe corrosion observed on the tower, extreme care to be taken when working on or around the tower."
+        },
+        {
+            "SiteID": "6130",
+            "SiteName": "Sugarloaf",
+            "Hazards": "the access tracks are for daytime dry weather only. Please note, the tracks can only be accessed using 4wd"
+        },
+        {
+            "SiteID": "6131",
+            "SiteName": "Te Aroha",
+            "Hazards": "There is a Diesel smell in the generator room, don't panic, it's been cleaned."
+        },
+        {
+            "SiteID": "6132",
+            "SiteName": "Tuhingamata",
+            "Hazards": "Potholes on access track 100m up from gate.  Care to be taken."
+        },
+        {
+            "SiteID": "6133",
+            "SiteName": "Waiatarua",
+            "Hazards": "Reduce speed and be aware of the fact that other people use the road. There have been three instances of near misses on this road so be very aware when travelling on this road at all times.  Ongoing"
+        },
+        {
+            "SiteID": "6134",
+            "SiteName": "Whakapunake",
+            "Hazards": "Animal pest control operation is being planned for the Mt Cherry on 20th October 2021."
+        },
+        {
+            "Hazards": "Any concerns, please call Pest control on 01 234 567"
+        },
+        {
+            "SiteID": "6135",
+            "SiteName": "Wharite Peak",
+            "Hazards": "Test Test"
+        }
+    ]
+}

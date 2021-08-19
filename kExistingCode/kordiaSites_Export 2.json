@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "kordiaSites",
+    "version": "1",
+    "enumerationValues": [
+      {
+        "value": "Site1"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

@@ -1,0 +1,114 @@
+{
+    "metadata": {
+      "schemaVersion": "1.0",
+      "importType": "LEX",
+      "importFormat": "JSON"
+    },
+    "resource": {
+      "name": "kSites",
+      "version": "1",
+      "enumerationValues": [
+        {
+            "value": "Grampians",
+            "synonyms": [6111]
+        },
+        {
+            "value": "Hedgehope",
+            "synonyms": [6112]
+        },
+        {
+            "value": "Hikurangi",
+            "synonyms": [6113]
+        },
+        {
+            "value": "Horokaka",
+            "synonyms": [6114]
+        },
+        {
+            "value": "Kaukau",
+            "synonyms": [6115]
+        },
+        {
+            "value": "Kuriwao",
+            "synonyms": [6116]
+        },
+        {
+            "value": "Little Mount Ida",
+            "synonyms": [6117]
+        },
+        {
+            "value": "Maungataniwha",
+            "synonyms": [6118]
+        },
+        {
+            "value": "Mount Cargill",
+            "synonyms": [6119]
+        },
+        {
+            "value": "Mount Edgecumbe",
+            "synonyms": [6120]
+        },
+        {
+            "value": "Mount Taranaki",
+            "synonyms": [6121]
+        },
+        {
+            "value": "Mount Erin",
+            "synonyms": [6122] 
+        },
+        {
+            "value": "Mount Murchison",
+            "synonyms": [6123]
+        },
+        {
+            "value": "Mount Rochfort",
+            "synonyms": [6124]
+        },
+        {
+            "value": "Mount Studholme",
+            "synonyms": [6125]    
+        },
+        {
+            "value": "Obelisk",
+            "synonyms": [6126]
+        },
+        {
+            "value": "Otahoua",
+            "synonyms": [6127]
+        },
+        {
+            "value": "Paparoa",
+            "synonyms": [6128]
+        },
+        {
+            "value": "Peninsula Hill",
+            "synonyms": [6129]
+        },
+        {
+            "value": "Sugarloaf",
+            "synonyms": [6130]
+        },
+        {
+            "value": "Te Aroha",
+            "synonyms": [6131]
+        },
+        {
+            "value": "Tuhingamata",
+            "synonyms": [6132]
+        },
+        {
+            "value": "Waiatarua",
+            "synonyms": [6133]
+        },
+        {
+            "value": "Whakapunake",
+            "synonyms": [6134]
+        },
+        {
+            "value": "Wharite Peak",
+            "synonyms": [6135]
+        }
+      ],
+      "valueSelectionStrategy": "ORIGINAL_VALUE"
+    }
+  }

@@ -1,0 +1,166 @@
+{
+    "metadata": {
+      "schemaVersion": "1.0",
+      "importType": "LEX",
+      "importFormat": "JSON"
+    },
+    "resource": {
+      "name": "Ksitesampledata",
+      "version": "lastest",
+      "enumerationValues": [
+
+        {
+            "SiteID": "6111",
+            "Site": "Grampians",
+            "AreaServed": "Nelson and eastern Tasman",
+            "Coordinates": "41°17′53″S 173°16′47″E"
+        },
+        {
+            "SiteID": "6112",
+            "Site": "Hedgehope",
+            "AreaServed": "Invercargill and Southland",
+            "Coordinates": "46°5′37.2″S 168°42′41.6″E"
+        },
+        {
+            "SiteID": "6113",
+            "Site": "Hikurangi",
+            "AreaServed": "Bay of Islands",
+            "Coordinates": "35°32′21.2″S 173°54′53.4″E"
+        },
+        {
+            "SiteID": "6114",
+            "Site": "Horokaka",
+            "AreaServed": "Whangarei and central Northland",
+            "Coordinates": "35°52′12.2″S 174°8′7.2″E"
+        },
+        {
+            "SiteID": "6115",
+            "Site": "Kaukau",
+            "AreaServed": "Wellington",
+            "Coordinates": "41°14′1″S 174°46′46″E"
+        },
+        {
+            "SiteID": "6116",
+            "Site": "Kuriwao",
+            "AreaServed": "Southern Otago",
+            "Coordinates": "46°14′18.8″S 169°22′18.9″E"
+        },
+        {
+            "SiteID": "6117",
+            "Site": "Little Mount Ida",
+            "AreaServed": "Northern Otago",
+            "Coordinates": "44°57′25.9″S 170°3′56.1″E"
+        },
+        {
+            "SiteID": "6118",
+            "Site": "Maungataniwha",
+            "AreaServed": "Far North District",
+            "Coordinates": "35°10′2.1″S 173°31′24.3″E"
+        },
+        {
+            "SiteID": "6119",
+            "SiteCode": "CGL",
+            "Site": "Mount Cargill",
+            "AreaServed": "Dunedin and eastern Otago",
+            "Coordinates": "45°48′47″S 170°33′19″E"
+        },
+        {
+            "SiteID": "6120",
+            "SiteCode": "EGT",
+            "Site": "Mount Edgecumbe/Putauaki",
+            "AreaServed": "Whakatane and eastern Bay of Plenty",
+            "Coordinates": "38°6′16.5″S 176°44′12.6″E"
+        },
+        {
+            "SiteID": "6121",
+            "Site": "Mount Taranaki/Egmont",
+            "AreaServed": "Taranaki",
+            "Coordinates": "39°17′19.7″S 174°5′4.3″E"
+        },
+        {
+            "SiteID": "6122",
+            "Site": "Mount Erin",
+            "AreaServed": "Napier, Hastings, and central Hawke's Bay",
+            "Coordinates": "39°44′23″S 176°50′27″E"
+        },
+        {
+            "SiteID": "6123",
+            "Site": "Mount Murchison",
+            "AreaServed": "Eastern Buller and western Tasman",
+            "Coordinates": "41°43′45″S 172°29′58″E"
+        },
+        {
+            "SiteID": "6124",
+            "Site": "Mount Rochfort",
+            "AreaServed": "Westport and western Buller",
+            "Coordinates": "41°46′43.2″S 171°44′25.9″E"
+        },
+        {
+            "SiteID": "6125",
+            "Site": "Mount Studholme",
+            "AreaServed": "Timaru and South Canterbury",
+            "Coordinates": "44°38′28.8″S 170°54′39″E"
+        },
+        {
+            "SiteID": "6126",
+            "Site": "Obelisk",
+            "AreaServed": "Central Otago",
+            "Coordinates": "45°19′18.8″S 169°12′25.3″E"
+        },
+        {
+            "SiteID": "6127",
+            "Site": "Otahoua",
+            "AreaServed": "Wairarapa",
+            "Coordinates": "40°58′32.1″S 175°45′16.5″E"
+        },
+        {
+            "SiteID": "6128",
+            "Site": "Paparoa",
+            "AreaServed": "Greymouth and Hokitika",
+            "Coordinates": "42°24′11.5″S 171°20′33.8″E"
+        },
+        {
+            "SiteID": "6129",
+            "Site": "Peninsula Hill",
+            "AreaServed": "Queenstown",
+            "Coordinates": "45°2′27″S 168°43′26″E"
+        },
+        {
+            "SiteID": "6130",
+            "Site": "Sugarloaf",
+            "AreaServed": "Christchurch and Canterbury",
+            "Coordinates": "43°36′13″S 172°38′58″E"
+        },
+        {
+            "SiteID": "6131",
+            "Site": "Te Aroha",
+            "AreaServed": "Hamilton and Waikato",
+            "Coordinates": "37°32′2.1″S 175°44′31.4″E"
+        },
+        {
+            "SiteID": "6132",
+            "Site": "Tuhingamata",
+            "AreaServed": "Taupo and southern Waikato/Bay of Plenty",
+            "Coordinates": "38°42′32.5″S 175°59′48″E"
+        },
+        {
+            "SiteID": "6133",
+            "Site": "Waiatarua",
+            "AreaServed": "Auckland",
+            "Coordinates": "36°55′34.5″S 174°34′5″E"
+        },
+        {
+            "SiteID": "6134",
+            "Site": "Whakapunake",
+            "AreaServed": "Gisborne and East Coast",
+            "Coordinates": "38°50′2.2″S 177°35′59.3″E"
+        },
+        {
+            "SiteID": "6135",
+            "Site": "Wharite Peak",
+            "AreaServed": "Palmerston North and Manawatu",
+            "Coordinates": "40°15′17″S 175°51′28″E"
+        }
+    ]
+}
+}
